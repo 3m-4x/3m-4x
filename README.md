@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3m-4x
 - 👀 I’m interested in ... Security
 - 🌱 I’m currently learning ... OSINT
-- 💞️ I’m looking to collaborate on ... Great projects/challenge
+- 💞️ I’m looking to collaborate on ... Great projects/challanges
 - 📫 How to reach me ...
 
 
